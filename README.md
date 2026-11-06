@@ -1,6 +1,6 @@
 # PySpark & Spark SQL Big Data Lab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO-NAME/blob/main/YOUR_NOTEBOOK_NAME.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/kavindidilhara/pyspark-spark-sql-lab/blob/main/SPARVIX_EEI6366_Lab.ipynb)
 
 A hands-on notebook exploring big data processing with **PySpark** and **Spark SQL**. The lab runs on a retail dataset with over 150,000 records to practice distributed data manipulation, filtering, and aggregations.
 
